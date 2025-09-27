@@ -1,6 +1,8 @@
 # cumincglm
 Generalized linear models for cumulative incidence Use cumincglm (eventglm) With (In) R Software
 
+https://www.youtube.com/watch?v=wmr6_8JrGtU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
